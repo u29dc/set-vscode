@@ -1,0 +1,45 @@
+{
+	"__metadata": {
+		"id": "5e64d7d6-308a-49b7-a298-cd7cc7f246ab",
+		"publisherDisplayName": "iinfin",
+		"publisherId": "4dd20bb1-ef4e-469f-8817-6dbe8f2b00d0"
+	},
+	"author": {
+		"name": "iinfin",
+		"url": "https://iinf.in"
+	},
+	"bugs": {
+		"url": "https://gitlab.com/u29dc/set/vscode/issues"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Set Dark",
+				"path": "./themes/drk.json",
+				"uiTheme": "vs-dark"
+			},
+			{
+				"label": "Set Light",
+				"path": "./themes/lht.json",
+				"uiTheme": "vs"
+			}
+		]
+	},
+	"description": "⧜",
+	"displayName": "set",
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"icon": "icon.png",
+	"license": "Public Domain",
+	"name": "set",
+	"publisher": "u29dc",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/u29dc/set-vscode"
+	},
+	"version": "2.0.1"
+}
