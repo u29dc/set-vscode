@@ -224,25 +224,19 @@
 			}
 		},
 		{
-			"scope": [
-				"markup.bold.markdown"
-			],
+			"scope": ["markup.bold.markdown"],
 			"settings": {
 				"fontStyle": "bold"
 			}
 		},
 		{
-			"scope": [
-				"markup.inline.raw"
-			],
+			"scope": ["markup.inline.raw"],
 			"settings": {
 				"foreground": "#cccccc"
 			}
 		},
 		{
-			"scope": [
-				"markup.italic"
-			],
+			"scope": ["markup.italic"],
 			"settings": {
 				"fontStyle": "italic"
 			}
@@ -260,31 +254,20 @@
 			}
 		},
 		{
-			"scope": [
-				"meta.link",
-				"meta.paragraph",
-				"meta.property-value",
-				"punctuation.definition"
-			],
+			"scope": ["meta.link", "meta.paragraph", "meta.property-value", "punctuation.definition"],
 			"settings": {
 				"foreground": "#7f7f7f"
 			}
 		},
 		{
-			"scope": [
-				"storage.modifier",
-				"storage.type"
-			],
+			"scope": ["storage.modifier", "storage.type"],
 			"settings": {
 				"fontStyle": "bold italic",
 				"foreground": "#ffffff"
 			}
 		},
 		{
-			"scope": [
-				"support.type.property-name.css",
-				"support.type.vendored.property-name.css"
-			],
+			"scope": ["support.type.property-name.css", "support.type.vendored.property-name.css"],
 			"settings": {
 				"foreground": "#ffffff"
 			}
