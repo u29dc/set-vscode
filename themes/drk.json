@@ -139,7 +139,7 @@
 		"terminal.ansiBrightGreen": "#7f7f7f",
 		"terminal.ansiBrightMagenta": "#7f7f7f",
 		"terminal.ansiBrightRed": "#7f7f7f",
-		"terminal.ansiBrightWhite": "#000000",
+		"terminal.ansiBrightWhite": "#333333",
 		"terminal.ansiBrightYellow": "#7f7f7f",
 		"terminal.ansiCyan": "#7f7f7f",
 		"terminal.ansiGreen": "#7f7f7f",
